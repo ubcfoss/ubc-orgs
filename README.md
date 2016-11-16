@@ -9,8 +9,10 @@ A list of departments, teams, and organizations at the University of British Col
 * [Code the Change at UBC](https://github.com/CodeTheChangeUBC)
 * [Michael Smith Laboratories](https://github.com/ubc-msl)
 * [Microbiology and Immunology](https://github.com/ubc-micb) - The Department of Microbiology and Immunology at UBC.
+* [nwHacks](https://github.com/nwhacks)
 * [OpenUBC](https://github.com/OpenUBC) - An initiative to build open APIs for UBC's public data. _(empty)_
 * [SALT Lab @ UBC](https://github.com/saltlab) - Software Analysis and Testing Research Lab.
+* [Startup Storm](https://github.com/startupstorm)
 * [Statistical Consulting and Research Laboratory](https://github.com/SCARL-UBC) - UBC Statistics _(empty)_
 * [UBC](https://github.com/ubc) - The main UBC repo
 * [UBC Alumni Network](https://github.com/UBC-Alumni) - A Network of UBC Alumni and students. _(empty)_
@@ -18,6 +20,7 @@ A list of departments, teams, and organizations at the University of British Col
 * [UBC Chem-E-Car](https://github.com/ubcchemecar) - UBC team for annual Chemical Engineering competition to design, build and test a shoe-box sized car from scratch.
 * [UBC Communications & Marketing](https://github.com/UBCCM)
 * [UBC Computer Science](https://github.com/UBC-CS) - _(empty)_
+* [UBC Computer Science Student Society](https://github.com/ubccsss)
 * [UBC Computer Vision and Robotics Lab](https://github.com/UBC-CVLab)
 * [UBC ECESS](https://github.com/ubcecess) - The Electrical & Computer Engineering Student Society (ECESS) at UBC.
 * [UBC Engineering Hardware Design Team](https://github.com/ubchdt)
