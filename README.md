@@ -9,7 +9,7 @@ A list of departments, teams, and organizations at the University of British Col
 * [Code the Change at UBC](https://github.com/CodeTheChangeUBC)
 * [Michael Smith Laboratories](https://github.com/ubc-msl)
 * [Microbiology and Immunology](https://github.com/ubc-micb) - The Department of Microbiology and Immunology at UBC.
-* [nwHacks](https://github.com/nwhacks)
+* [nwHacks](https://github.com/nwhacks) - Hackathon hosted at UBC
 * [OpenUBC](https://github.com/OpenUBC) - An initiative to build open APIs for UBC's public data. _(empty)_
 * [SALT Lab @ UBC](https://github.com/saltlab) - Software Analysis and Testing Research Lab.
 * [Startup Storm](https://github.com/startupstorm)
