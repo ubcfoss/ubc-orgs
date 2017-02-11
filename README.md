@@ -6,7 +6,7 @@ A list of departments, teams, and organizations at the University of British Col
 
 * [Beaty Biodiversity Museum](https://github.com/ubcbbm-vertnet) - Cowan Tetrapod Collection.
 * [Centre for Cognitive Development @ UBC](https://github.com/CCD-UBC) - _(empty)_
-* [Code the Change at UBC](https://github.com/CodeTheChangeUBC)
+* [Code the Change at UBC](https://github.com/CodeTheChangeUBC) - Students creating free, open source software for organizations effecting change in their communities.
 * [Michael Smith Laboratories](https://github.com/ubc-msl)
 * [Microbiology and Immunology](https://github.com/ubc-micb) - The Department of Microbiology and Immunology at UBC.
 * [nwHacks](https://github.com/nwhacks) - Hackathon hosted at UBC
