@@ -19,8 +19,8 @@ A list of departments, teams, and organizations at the University of British Col
 * [UBC-Astrophysics](https://github.com/UBC-Astrophysics)
 * [UBC Chem-E-Car](https://github.com/ubcchemecar) - UBC team for annual Chemical Engineering competition to design, build and test a shoe-box sized car from scratch.
 * [UBC Communications & Marketing](https://github.com/UBCCM)
-* [UBC Computer Science](https://github.com/UBC-CS) - _(empty)_
-* [UBC Computer Science Student Society](https://github.com/ubccsss)
+* [UBC Computer Science](https://github.com/ubccpsc) - The Department of Computer Science at UBC.
+* [UBC Computer Science Student Society](https://github.com/ubccsss) - The Computer Science Student Society (CSSS) at UBC.
 * [UBC Computer Vision and Robotics Lab](https://github.com/UBC-CVLab)
 * [UBC ECESS](https://github.com/ubcecess) - The Electrical & Computer Engineering Student Society (ECESS) at UBC.
 * [UBC Engineering Hardware Design Team](https://github.com/ubchdt)
