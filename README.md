@@ -17,6 +17,7 @@ A list of departments, teams, and organizations at the University of British Col
 * [UBC](https://github.com/ubc) - The main UBC repo
 * [UBC Alumni Network](https://github.com/UBC-Alumni) - A Network of UBC Alumni and students. _(empty)_
 * [UBC-Astrophysics](https://github.com/UBC-Astrophysics)
+* [UBC Canvas API User Community](https://github.com/ubccapico) - An open community for anyone at UBC to share practices and learn about the Canvas API and how it may be used.
 * [UBC Chem-E-Car](https://github.com/ubcchemecar) - UBC team for annual Chemical Engineering competition to design, build and test a shoe-box sized car from scratch.
 * [UBC Communications & Marketing](https://github.com/UBCCM)
 * [UBC Computer Science](https://github.com/ubccpsc) - The Department of Computer Science at UBC.
